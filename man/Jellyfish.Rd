@@ -17,4 +17,5 @@ Jellyfish
 }
 \examples{
 give it a number of jellyfish
+
 }
